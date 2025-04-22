@@ -1,0 +1,22 @@
+[
+  {
+    "City": "Chennai",
+    "Weather": "32.29\u00B0C, broken clouds"
+  },
+  {
+    "City": "Bangalore",
+    "Weather": "34.39\u00B0C, overcast clouds"
+  },
+  {
+    "City": "Hyderabad",
+    "Weather": "38.96\u00B0C, broken clouds"
+  },
+  {
+    "City": "Mumbai",
+    "Weather": "30.37\u00B0C, clear sky"
+  },
+  {
+    "City": "Pune",
+    "Weather": "40.04\u00B0C, scattered clouds"
+  }
+]
